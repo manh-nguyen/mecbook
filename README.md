@@ -1,2 +1,1 @@
-# mecbook
-mecbook
+# My Simple MecBook
